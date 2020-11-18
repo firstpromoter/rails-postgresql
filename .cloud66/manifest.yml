@@ -1,3 +1,8 @@
+production:
+    postgresql:
+        configuration:
+            version: 9.3.6
 rails:
   configuration:
     ruby_version: "2.7.2"
+    
